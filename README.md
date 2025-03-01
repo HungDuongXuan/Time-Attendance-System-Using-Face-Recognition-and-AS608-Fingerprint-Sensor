@@ -1,0 +1,2 @@
+# Time-Attendance-System-Using-Face-Recognition-and-AS608-Fingerprint-Sensor
+Hệ thống chấm công tự động sử dụng nhận diện khuôn mặt + phát hiện giả mạo và cảm biến vân tay, sử dụng được trong điều điện có và không có kết nối mạng.
